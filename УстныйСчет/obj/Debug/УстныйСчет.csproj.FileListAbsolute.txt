@@ -1,0 +1,17 @@
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\bin\Debug\УстныйСчет.exe
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\bin\Debug\УстныйСчет.pdb
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\bin\Debug\MetroFramework.dll
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.about.resources
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.Form1.resources
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.Properties.Resources.resources
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.settings.resources
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.csproj.CopyComplete
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.exe
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.pdb
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.game.resources
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.warning.resources
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\УстныйСчет\УстныйСчет\obj\Debug\УстныйСчет.marks.resources
